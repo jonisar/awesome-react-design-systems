@@ -25,13 +25,13 @@ A curated list of design systems made up of reusable
 - [Backpack](https://backpack.github.io/) [[github](https://github.com/Skyscanner/backpack)] - Skyscanner - Backpack is a collection of design resources, reusable components and guidelines for creating Skyscanner products.
 - [Blueprint](http://blueprintjs.com/) [[github](https://github.com/palantir/blueprint)] - Palantir - A React-based UI toolkit for the web
 - [Canvas](https://canvas.hubspot.com/) [[github](https://github.com/HubSpot/canvas)] - Hubspot - HubSpot Canvas is the design system that we at HubSpot use to build our products.
-- [Carbon Design System](http://carbondesignsystem.com/) [[github](https://github.com/carbon-design-system/carbon-components)] - IBM - The Carbon Design System is integrating the new IBM Design Ethos and Language.
+- [Carbon Design System](http://carbondesignsystem.com/) [[github](https://github.com/carbon-design-system/carbon-components)] - IBM - The Carbon Design System is integrating the new IBM Design Ethos and Language. [Explore and install components](https://bit.dev/gamepod/carbon-ui).
 - [cf-ui](https://cloudflare.github.io/cf-ui/) [[github](https://github.com/cloudflare/cf-ui)] - Cloudflare - A set of packages used to build UIs at Cloudflare using projects such as React.
 - [Garden](https://garden.zendesk.com/react-components/) [[github](https://github.com/zendeskgarden/react-components)] - Zendesk Garden - our curated collection of UI goodness.
-- [Grommet](http://grommet.io/) [[github](https://github.com/grommet/grommet)] - Hewlett Packard - Grommet provides all the guidance, components, and design resources you need to take your ideas from concept to a real application.
+- [Grommet](http://grommet.io/) [[github](https://github.com/grommet/grommet)] - Hewlett Packard - Grommet provides all the guidance, components, and design resources you need to take your ideas from concept to a real application. [Explore and install components](https://bit.dev/grommet/grommet), or [install icons](https://bit.dev/grommet/grommet-icons).
 - [Hack Club Design System](https://design.hackclub.com) [[github](https://github.com/hackclub/design-system)] - Hack Club - A collection of React components designed for speed, consistency, and best practices.
 - [Lightning Design System](https://react.lightningdesignsystem.com/) [[github](https://github.com/salesforce/design-system-react)] - Salesforce - A React implementation of the Lightning Design System.
-- [Material UI](https://www.material-ui.com/#/) [[github](https://github.com/mui-org/material-ui)] - Google - React components that implement Google's Material Design.
+- [Material UI](https://www.material-ui.com/#/) [[github](https://github.com/mui-org/material-ui)] - Google - React components that implement Google's Material Design. [Explore and install components](https://bit.dev/mui-org/material-ui).
 - [Mineral UI](https://mineral-ui.com/) [[github](https://github.com/mineral-ui/mineral-ui)] - CA Technologies - An open-source design system created to simplify building appealing, modern software experiences.
 - [MongoDB Design](http://mongodb.design/#/) [[github](https://github.com/mongodb/design)] - MongoDB - Design for mission-critical applications.
 - [Pivotal UI](https://styleguide.pivotal.io/) [[github](https://github.com/pivotal-cf/pivotal-ui)] - Pivotal - A collection of React components that are styled for the Pivotal brand.
@@ -48,6 +48,8 @@ blocks for web-based products built inside JetBrains.
 - [Uniform](http://uniform.hudl.com/) - Hudl - The system includes
   components, visual guidelines, language and additional resources to help
   you build more cohesive product interfaces.
+- [base-ui](https://bit.dev/bit/base-ui) - base-ui - The modular base design system of bit.dev published as single components.
+- [Evangalist](https://bit.dev/bit/evangelist) - Evangalist - The concrete design system of components used to build bit.dev's marketing sites.
 
 #### React Native Design Systems
 
